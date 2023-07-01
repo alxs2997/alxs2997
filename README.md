@@ -1,7 +1,7 @@
 # console.log('welcome and Hello!! 🖖😎')
 ![MakeCode](https://github.com/alxs2997/alxs2997/assets/98421465/d373a633-9748-4553-a56e-91e4b975b8f4)
 
-<h3 align="center">A passionate frontend developer from El Salvador sv</h3>
+<h3 align="center">A passionate frontend developer from El Salvador <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="sv" width="20" height="20"/></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
