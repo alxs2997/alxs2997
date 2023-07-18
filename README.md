@@ -4,7 +4,9 @@
 <a href="https://www.youtube.com/channel/UCfs2rOMsEdcRrKVUYrbkKcQ" target="_blank" rel="noreferrer">![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCfs2rOMsEdcRrKVUYrbkKcQ?style=social&label=suscr%C3%ADbete)</a> <a href="https://www.linkedin.com/in/alexis-gallegos2997/" target="_blank" rel="noreferrer">![Social Badge](https://img.shields.io/badge/alexis-gallegos2997?style=social&logo=LinkedIn&logoColor=blue&color=blue)</a>
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alxs2997&theme=dark&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+| [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alxs2997&theme=tokyonight)](https://github.com/alxs2997/github-readme-stats)  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alxs2997&theme=dark&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  |
+|---|---|
 ---
 <h4 align="center">Un Programador apasionado, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web. Salvadoreño<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/></h4>
 
