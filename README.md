@@ -5,7 +5,7 @@
 
 ---
 
-| [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alxs2997&theme=tokyonight)](https://github.com/alxs2997/github-readme-stats)  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alxs2997&theme=dark&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  |
+| [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alxs2997&theme=tokyonight)](https://github.com/alxs2997/github-readme-stats)  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alxs2997&theme=tokyonight&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  |
 |---|---|
 ---
 <h4 align="center">Un Programador apasionado, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web. Salvadoreño<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/></h4>
