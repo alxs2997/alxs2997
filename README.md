@@ -33,3 +33,10 @@
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxs2997&show_icons=true&count_private=true&hide=cotribs,prs,issues&theme=tokyonight)](https://github.com/alxs2997/github-readme-stats)  | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alxs2997&theme=tokyonight&layout=compact)](https://github.com/alxs2997/github-readme-stats)
 |---|---|  
+
+
+
+---
+
+
+![banner2](https://github.com/alxs2997/alxs2997/assets/98421465/7acc7e32-62e3-4fe4-ab5b-d564ecd9bb24)
