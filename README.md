@@ -1,4 +1,5 @@
-# console.log('welcome and Hello!! 🖖😎')
+<h1>console.log('Welcome and Hello!! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>')</h1>
+
 ![MakeCode](https://github.com/alxs2997/alxs2997/assets/98421465/d373a633-9748-4553-a56e-91e4b975b8f4)
 <a href="https://www.facebook.com/alexis.gallegos.73113" target="_blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/alxs2997/" target="_blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/alexis-gallegos2997/" target="_blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/Alxs2997" target="_blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>  <a href="https://www.youtube.com/channel/UCfs2rOMsEdcRrKVUYrbkKcQ" target="_blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
