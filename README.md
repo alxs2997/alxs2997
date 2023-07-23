@@ -10,7 +10,7 @@
 <a href="https://www.buymeacoffee.com/https://bmc.link/david7alxY" target="_blank" rel="noreferrer">![Social Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)</a>
 
 
-<p align="center">Soy <strong>Ingeniero en Sistemas y Programador apasionado</strong>, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web. Salvadoreño <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/><br />👇¡Revisa mi contenido!👇</p>
+<p align="center">Soy <strong>Ingeniero en Sistemas y Programador apasionado</strong>, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web, salvadoreño. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/><br />👇¡Revisa mi contenido!👇</p>
 
 ---
 
