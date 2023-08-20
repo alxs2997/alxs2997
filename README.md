@@ -31,14 +31,24 @@
 
 ---
 # Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alxs2997&theme=tokyonight&hide_border=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxs2997&show_icons=true&count_private=true&hide=cotribs,prs,issues&theme=tokyonight)](https://github.com/alxs2997/github-readme-stats)  | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alxs2997&theme=tokyonight&layout=compact)](https://github.com/alxs2997/github-readme-stats)
-|---|---|  
+<table align="center">
+<tr>
+<td width="60%" align="center">
 
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alxs2997&show_icons=true&count_private=true&hide=cotribs,prs,issues&theme=tokyonight" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alxs2997&theme=tokyonight&hide_border=&date_format=j%20M%5B%20Y%5D" /> 
+</td>
 
+<td width="40%" align="center">
 
----
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alxs2997&theme=tokyonight&layout=compact&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
 ![banner2](https://github.com/alxs2997/alxs2997/assets/98421465/7acc7e32-62e3-4fe4-ab5b-d564ecd9bb24)
