@@ -35,7 +35,7 @@
 <details>
  <summary>Mostrar Más... </summary>
 
-# Stats:
+#  Estadísticas:
 
 <table align="center">
 <tr>
