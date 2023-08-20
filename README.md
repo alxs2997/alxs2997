@@ -1,4 +1,6 @@
-<h1>console.log('Welcome and Hello!! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/>')</h1>
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=998&color=40F8FF&center=true&repeat=false&width=437&lines=%C2%A1Hola%2C+Bienvenido!+%3AD" alt="Typing SVG" />
+</div>
 
 ![MakeCode](https://github.com/alxs2997/alxs2997/assets/98421465/d373a633-9748-4553-a56e-91e4b975b8f4)
 <a href="https://www.facebook.com/alexis.gallegos.73113" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/alxs2997/" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/alexis-gallegos2997/" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/Alxs2997" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://youtube.com/@alxs2997" target="_blank"><img alt="youtube views" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCfs2rOMsEdcRrKVUYrbkKcQ?color=%23E05D44&label=Youtube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
@@ -57,10 +59,13 @@
 		<img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
 	</a>
 </p>
-<img width="100%" height="2px" align="center" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="------------------------------------------------------------------------------------------------------------------"/>
 
-![banner2](https://github.com/alxs2997/alxs2997/assets/98421465/7acc7e32-62e3-4fe4-ab5b-d564ecd9bb24)
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=998&color=40F8FF&center=true&width=437&lines=Gracias+por+tu+visita!" alt="Typing SVG" />
+</div>
 
- 
+<img width="100%" height="2px" align="center" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="------------------------------------------------------------------------------------------------------------------"/> 
 </details>
 
+
+![banner2](https://github.com/alxs2997/alxs2997/assets/98421465/7acc7e32-62e3-4fe4-ab5b-d564ecd9bb24)
