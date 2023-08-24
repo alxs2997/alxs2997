@@ -90,9 +90,11 @@
 
 ## 👽Revisa También mí Portafolio:
 
-
+<p align='center'>
 <a href="https://professional-portfolio-six.vercel.app/" target="blank">
-	<img align="center" width="470px" height="240px" src="https://github.com/alxs2997/alxs2997/assets/98421465/0f7f6694-6ff1-4b67-ac20-a48e00bf45f8"   alt="VIDEO" /> </a>
+	<img align="center" width="770px" height="640px" src="https://github.com/alxs2997/alxs2997/assets/98421465/0f7f6694-6ff1-4b67-ac20-a48e00bf45f8"   alt="VIDEO" /> 
+</a>
+</p>
 
 #  Estadísticas:
 
