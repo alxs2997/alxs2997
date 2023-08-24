@@ -42,11 +42,11 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/watch?v=q5jgGd5dnYE&ab_channel=AlexisGallegos" title="Go to Source">
-	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/bd9NsC3/Screenshot-2023-08-23-182955.png"   alt="VIDEO" />
+     <a href="https://www.youtube.com/watch?v=W_o1sIqhNAs&ab_channel=AlexisGallegos" title="Go to Source">
+	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/xY3JsqD/Screenshot-2023-08-23-183425.png"   alt="VIDEO" />
       </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=q5jgGd5dnYE&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
+        <a href="https://www.youtube.com/watch?v=W_o1sIqhNAs&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
     </p>       
 </td>
 <td width="25%" align="center">
