@@ -76,7 +76,6 @@
       </p>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=m7N691ayP80&t=31s&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997" /></a>
-	<a href="https://github.com/alxs2997/FullJavaScript" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@alxs2997" /></a>
     </p>       
 </td>
   
