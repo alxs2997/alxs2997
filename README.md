@@ -35,6 +35,61 @@
 <details>
  <summary>Mostrar Más... </summary>
 
+ <div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=q5jgGd5dnYE&ab_channel=AlexisGallegos" title="Go to Source">
+	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/bd9NsC3/Screenshot-2023-08-23-182955.png"   alt="VIDEO" />
+      </p>
+    <p align="center">
+        <a href="https://www.youtube.com/watch?v=q5jgGd5dnYE&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=s5f_WOURmVU&t=8s&ab_channel=AlexisGallegos" title="Go to Source">
+	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/JHQ5qN2/Screenshot-2023-08-23-182515.png"   alt="VIDEO" />
+      </p>
+    <p align="center">
+        <a href="https://www.youtube.com/watch?v=s5f_WOURmVU&t=8s&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=m7N691ayP80&t=31s" title="Go to Source">
+	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/8BssqYz/Screenshot-2023-08-23-181033.png"   alt="VIDEO" />
+      </p>
+    <p align="center">
+        <a href="https://www.youtube.com/watch?v=m7N691ayP80&t=31s&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=w7QDQZ7Riqs" title="Go to Source">
+        <img align="center" width="270px" height="140px" src="https://i.ibb.co/18fd9GX/Screenshot-2023-08-23-173348.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="https://www.youtube.com/watch?v=m7N691ayP80&t=31s&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997" /></a>
+	<a href="https://github.com/alxs2997/FullJavaScript" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@alxs2997" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
+
+
 #  Estadísticas:
 
 <table align="center">
