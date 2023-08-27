@@ -112,9 +112,10 @@
 		<img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back-to-top" />
 	</a>
 </p>
-
 <div align="center">
 	<img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" />
+</div>
+<div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=998&color=40F8FF&center=true&width=437&lines=Gracias+por+tu+visita!" alt="Typing SVG" />
 </div>
 
