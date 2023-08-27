@@ -36,14 +36,14 @@
  <summary>Mostrar Más... </summary>
 
  <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Algunos Videos del Canal👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/watch?v=W_o1sIqhNAs&ab_channel=AlexisGallegos" title="Go to Source">
-	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/xY3JsqD/Screenshot-2023-08-23-183425.png"   alt="VIDEO" />
+	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/3cTCfyC/Rojo-Negro-y-Blanco-Grunge-Fitness-Banner-para-You-Tube-17.png"   alt="VIDEO" />
       </p>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=W_o1sIqhNAs&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
