@@ -40,7 +40,7 @@
 
 <details>
  <summary>
-	 <h2>Más Info:</h2>
+	 <h1>Más Info:</h1>
  </summary>
 
  <div id="proyectos">
