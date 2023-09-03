@@ -50,7 +50,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/watch?v=W_o1sIqhNAs&ab_channel=AlexisGallegos" title="Go to Source">
+     <a href="https://www.youtube.com/watch?v=W_o1sIqhNAs&ab_channel=AlexisGallegos" title="Go to YouTube">
 	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/3cTCfyC/Rojo-Negro-y-Blanco-Grunge-Fitness-Banner-para-You-Tube-17.png"   alt="VIDEO" />
       </p>
     <p align="center">
