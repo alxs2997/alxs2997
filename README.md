@@ -62,11 +62,11 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/watch?v=m7N691ayP80&t=31s" title="Go to Source">
+     <a href="https://youtu.be/rI8q8suAD04" title="Go to Source">
 	     <img align="center" width="270px" height="140px" src="https://i.ibb.co/K6vY8LR/Rojo-Negro-y-Blanco-Grunge-Fitness-Banner-para-You-Tube-16.png"   alt="VIDEO TO:" />
       </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=m7N691ayP80&t=31s&ab_channel=AlexisGallegos" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
+        <a href="https://youtu.be/rI8q8suAD04" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@alxs2997"  /></a>
     </p>       
 </td>
 
