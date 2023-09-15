@@ -7,7 +7,7 @@
 
 **`Ingeniero en Sistemas y Redes Informáticas.`**
 
-[![](https://visitcount.itsvg.in/api?id=alxs2997&icon=5&color=6)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=alxs2997&label=Views&color=12&icon=5&pretty=true" />
 
 <img width="100%" height="2px" align="center" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="-------------------------------------------------------------------------------------------------------------------"/>
 
