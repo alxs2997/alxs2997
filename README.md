@@ -5,11 +5,12 @@
 
 <img width="100%" height="2px" align="center" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="---------------------------------------------------------------------------------------------------------------------"/>
 
-<p align="center">Soy <strong>Ingeniero en Sistemas y Programador apasionado</strong>, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web, salvadoreño. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/><br /><h2 align="center">👇¡Revisa mi contenido!👇</h2></p>
+<p align="center">Soy <strong>Ingeniero en Sistemas y Programador apasionado</strong>, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web, salvadoreño. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/><br /><h2 align="center"><details> <summary>
+	 👇¡Revisa mi contenido!👇
+ </summary></h2></p>
 
 <img width="100%" height="2px" align="center" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="-------------------------------------------------------------------------------------------------------------------------"/>
-
-### Lenguajes y Frameworks:
+ ### Lenguajes y Frameworks:
 
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/> <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VUE.JS"/> <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="VUE.JS"/> <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL"/> <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS"/> <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="LARAVEL"/> <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 
@@ -23,12 +24,6 @@
 <img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="VERCEL"/> <img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/> <img align="center" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp"/>
 <img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Ilustrator"/> <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img align="center" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/> <img align="center" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="CISCO"/> <img align="center" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/> <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Apache"/> <img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> <img align="center" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="InkScape"/> <img align="center" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/> 
 <img width="100%" height="2px" align="center" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" alt="--------------------------------------------------------------------------------------------------------------------------"/>
-
-
-<details>
- <summary>
-	 <h1>Más Info:</h1>
- </summary>
 
  <div id="proyectos">
 <h2 >Algunos Videos del Canal👨🏻‍💻</h2>
