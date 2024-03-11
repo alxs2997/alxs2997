@@ -7,9 +7,9 @@
 <p align="center">Soy <strong>Ingeniero en Sistemas y Programador apasionado</strong>, en busca de hacer crecer mis conocimientos y habilidades para desarrollar aplicaciones web, salvadoreño. <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1f8-1f1fb.svg" alt="sv" width="20" height="20"/></p>
 <br/>
 <details>
-	<summary><h2>
-	 👉¡Revisa mi contenido!👇
-</h2> </summary>
+	<summary>
+		<h2>👉¡Revisa mi contenido!👇</h2> 
+</summary>
 
 
 ### Lenguajes y Frameworks:
