@@ -1,4 +1,4 @@
-![MakeCode](https://github.com/alxs2997/alxs2997/assets/98421465/d373a633-9748-4553-a56e-91e4b975b8f4)
+![head](https://github.com/alxs2997/alxs2997/assets/98421465/f323a9a3-5a89-4d24-aa61-db665fff9516)
 <a href="https://www.facebook.com/alexis.gallegos.73113" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a> <a href="https://www.instagram.com/alxs2997/" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://www.linkedin.com/in/alexis-gallegos2997/" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://twitter.com/Alxs2997" target="blank" rel="noopener noreferrer">![Social Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://youtube.com/@alxs2997" target="_blank"><img alt="youtube views" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCfs2rOMsEdcRrKVUYrbkKcQ?color=%23E05D44&label=Youtube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 
 **`Ingeniero en Sistemas y Redes Informáticas.`**
@@ -112,5 +112,4 @@
 
 </details>
 
-
-![banner2](https://github.com/alxs2997/alxs2997/assets/98421465/7acc7e32-62e3-4fe4-ab5b-d564ecd9bb24)
+![footer](https://github.com/alxs2997/alxs2997/assets/98421465/c8c62dd3-0c3b-4f35-8066-ad50c1e01657)
