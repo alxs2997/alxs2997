@@ -80,22 +80,7 @@
 <br><br>
 
 #  Estadísticas:
-
-<table align="center">
-<tr>
-<td width="60%" align="center">
-
  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alxs2997&show_icons=true&count_private=true&hide=cotribs,prs,issues&theme=tokyonight" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alxs2997&theme=tokyonight&hide_border=&date_format=j%20M%5B%20Y%5D" /> 
-</td>
-
-<td width="40%" align="center">
-
-
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 <p align="right">
 	<a href="#top">
